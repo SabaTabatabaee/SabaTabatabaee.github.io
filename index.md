@@ -6,7 +6,7 @@ title: " About me"
 <table>
   <tr>
     <td width="200">
-      <img src="/assets/images/saba.jpg" alt="Saba Tabatabaee" width="200"/>
+      <img src="/assets/images/saba.jpeg" alt="Saba Tabatabaee" width="200"/>
     </td>
     <td>
       <p>I'm Saba Tabatabaee, currently pursuing a Ph.D. in Electrical and Computer Engineering at the University of Maryland - College Park, where I have the privilege of working with <a href="https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson">Prof. Carol Espy-Wilson</a>.</p>
