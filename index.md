@@ -23,8 +23,8 @@ title: " About me"
       </p>
 
       <p>
-        Currently, I am developing a speech inversion system that leverages AI to estimate vocal tract variables—such as 
-        lip and tongue movements and nasal airflow—directly from far-field speech recordings. 
+        Currently, I am developing a speech inversion system that leverages AI to estimate vocal tract variables, such as 
+        lip and tongue movements and nasal airflow, directly from far-field speech recordings. 
         This work has applications in both speech technology and clinical assessment.
       </p>
     </td>
