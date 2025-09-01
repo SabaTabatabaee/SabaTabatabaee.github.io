@@ -5,7 +5,7 @@ title: " About me"
 
 <table>
   <tr>
-    <td width="200">
+    <td width="400">
       <img src="saba.jpeg" alt="Saba Tabatabaee" width="200"/>
     </td>
     <td>
