@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Home"
+title: "News"
 ---
 
 {% if site.show_excerpts %}
   {% for post in site.posts %}
     <article>
-      {% include meta.html post=post %}
+      {% include meta.html post=Latest News %}
       {{ post.excerpt }}
       <footer class="button"><a href="{{ post.url | relative_url }}">read more</a></footer>
     </article>
