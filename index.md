@@ -9,7 +9,7 @@ title: " About me"
       <img src="saba.jpeg" alt="Saba Tabatabaee" width="200"/>
     </td>
     <td>
-      <p>I'm Saba Tabatabaee, currently pursuing a Ph.D. in Electrical and Computer Engineering at the University of Maryland - College Park, where I'm  working under the supervision of <a href="https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson">Prof. Carol Espy-Wilson</a>.</p> at <a href="https://scl.umd.edu/">speech communication lab</a>.</p>.
+      <p>I'm Saba Tabatabaee, currently pursuing a Ph.D. in Electrical and Computer Engineering at the University of Maryland - College Park, where I'm working under the supervision of <a href="https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson">Prof. Carol Espy-Wilson</a> at the <a href="https://scl.umd.edu/">Speech Communication Lab</a>.</p>
 
       <p>My research focuses on speech processing, integrating concepts from signal processing, speech science, linguistics, and machine learning. I have worked on various speech processing projects, including robust speaker verification under classroom noise conditions and speech enhancement.</p>
 
