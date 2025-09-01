@@ -18,8 +18,9 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", title: "Home Change", sidebaricon: home}
-  - {file: "README.md", title: "About me" , sidebaricon: address-card}
+  - {file: "saba_cv.pdf", title: "CV", sidebaricon: home}
+  - {title: "Lab" , url: "https://scl.umd.edu/"}
+  - {title: "publication"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:sabatb@umd.com"}
