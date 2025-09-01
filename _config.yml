@@ -20,7 +20,7 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "/saba_cv.pdf", title: "CV", sidebaricon: home}
   - {title: "Lab" , url: "https://scl.umd.edu/"}
-  - {title: "News" }
+  - {title: "News" ,  file: "/news.md" }
   - {title: "Publications" }
 
 
