@@ -6,12 +6,16 @@ title: "News"
 {% if site.show_excerpts %}
   {% for post in site.posts %}
     <article>
-      {% include meta.html post=Latest News %}
-      {{ post.excerpt }}
-      <footer class="button"><a href="{{ post.url | relative_url }}">read more</a></footer>
+      {% include meta.html post=post %}
+      <p>{{ post.excerpt }}</p>
+      <footer class="button">
+        <a href="{{ post.url | relative_url }}">Read more</a>
+      </footer>
     </article>
   {% endfor %}
 {% else %}
-  {% capture source %}{% include_relative archive.html title="Posts" %}{% endcapture %}
+  {% capture source %}
+    {% include_relative archive.html title="Posts" %}
+  {% endcapture %}
   {{ source | split: "---" | last }}
 {% endif %}
