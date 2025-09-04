@@ -1,6 +1,6 @@
 ---
 layout: page
-title: " About me"
+title: "About me"
 ---
 
 <table>
@@ -26,6 +26,12 @@ title: " About me"
         Currently, I am developing a speech inversion system that leverages AI to estimate vocal tract variables, such as 
         lip and tongue movements and nasal airflow, directly from far-field speech recordings. 
         This work has applications in both speech technology and clinical assessment.
+      </p>
+
+      <p>
+        If you are interested in learning more about my research on speech inversion systems and their applications, 
+        <a href="https://lnkd.in/eUWeWdjY"> Prof. Carol Espy-Wilson</a>, keynote speaker at Interspeech 2025, provides an in-depth overview of the topic 
+        and highlights aspects of my recent work. You can watch the recording of Keynote 3 from Interspeech 2025 at the link above.
       </p>
     </td>
   </tr>
