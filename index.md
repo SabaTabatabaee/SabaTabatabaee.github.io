@@ -28,11 +28,12 @@ title: "About me"
         This work has applications in both speech technology and clinical assessment.
       </p>
 
-      <p>
-        If you are interested in learning more about my research on speech inversion systems and their applications, 
-        <a href="https://lnkd.in/eUWeWdjY"> Prof. Carol Espy-Wilson</a>, keynote speaker at Interspeech 2025, provides an in-depth overview of the topic 
-        and highlights aspects of my recent work. You can watch the recording of Keynote 3 from Interspeech 2025 at the link above.
-      </p>
+<p>
+If you are interested in learning more about my research on speech inversion systems and their applications, 
+Prof. Carol Espy-Wilson, keynote speaker at Interspeech 2025, provides an in-depth overview of the topic 
+and highlights aspects of my recent work. You can watch the recording of Keynote 3 from Interspeech 2025 at this 
+<a href="https://lnkd.in/eUWeWdjY">link</a>.
+</p>
     </td>
   </tr>
 </table>
