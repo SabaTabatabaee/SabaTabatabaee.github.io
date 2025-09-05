@@ -21,6 +21,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
  #- {title: "CV", file: "saba_cv.pdf", sidebaricon: "fas fa-file"}
   - {title: "News", file: "news.md"}
   - {title: "Publications", url: "https://scholar.google.com/citations?user=d7tPM7MAAAAJ&hl=en", sidebaricon: "fas fa-book"}
+  - {title: "Highlighted Projects", file: "projects.md", sidebaricon: "fas fa-project-diagram"}
 
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
