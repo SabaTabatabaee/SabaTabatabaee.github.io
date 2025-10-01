@@ -27,8 +27,8 @@ that acoustic-to-articulatory speech inversion can quantify statistically signif
 perceptually salient subtypes of /ɹ/ and /s/ speech sound errors, and correct /ɹ/ and /s/ targets, in American English..</div>
 <br>
 
-| Paper                                         | Slide                                                   | Code                                                      |
-|-----------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|
+| Paper                                                                                      |
+|--------------------------------------------------------------------------------------------|
 [**Subtyping Speech Errors in Children**](https://www.isca-archive.org/interspeech_2025/benway25_interspeech.pdf) 
 
 <br>
