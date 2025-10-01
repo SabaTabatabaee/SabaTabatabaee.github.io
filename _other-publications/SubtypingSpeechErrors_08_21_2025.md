@@ -13,9 +13,6 @@ teaser: '../images/subtype.jpeg'
 slides:
 authors: "Nina R Benway, <b>Saba Tabatabaee</b>, Benjamin Munson, Jonathan Preston, Carol Espy-Wilso"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-redirect_from: 
-  - /FireCommander
----
 
 <p style="text-align:center;">
 <img src="../images/subtype.jpeg" width="800">
