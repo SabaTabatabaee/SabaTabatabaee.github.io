@@ -11,9 +11,9 @@ title                    : "Saba Tabatabaee"
 title_separator          : "-"
 name                     : &name "Saba Tabatabaee"
 description              : &description "Saba Tabatabaee's Personal Website"
-url                      : "https://wuxiyang1996.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://sabatabatabaee1994.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wuxiyang1996/wuxiyang1996.github.io"
+repository               : "SabaTabatabaee/sabatabatabaee1994.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiyang Wu"
-  avatar           : "XiyangWu.png"
-  bio              : "Ph.D Student at University of Maryland, College Park |<br> A group member of <a href=\"https://gamma.umd.edu/\">GAMMA</a> <br><br>email: wuxiyang [at] umd.edu"
+  name             : "Saba Tabatabaee"
+  avatar           : "sabatabatabaee.jpeg"
+  bio              : "Ph.D Student at University of Maryland, College Park |<br>  <br><br>email: sabatb [at] umd.edu"
   location         : "College Park, MD"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=sI05dqQAAAAJ&hl=en"
-  email            : "wuxiyang@umd.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=d7tPM7MAAAAJ&hl=en"
+  email            : "sabatb@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://wuxiyang1996.github.io"
+  uri              : "https://github.com/SabaTabatabaee"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wuxiyang1996"
+  github           : "SabaTabatabaee"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "xiyang-wu-0b120614b"
+  linkedin         : "https://www.linkedin.com/in/saba-tabatabaee-5bb776236/"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "wu_xiyang"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
