@@ -29,7 +29,7 @@ perceptually salient subtypes of /ɹ/ and /s/ speech sound errors, and correct /
 
 | Paper                                                                                      |
 |--------------------------------------------------------------------------------------------|
-[**Subtyping Speech Errors in Children**](https://www.isca-archive.org/interspeech_2025/benway25_interspeech.pdf) 
+| [**Subtyping Speech Errors in Children**](https://www.isca-archive.org/interspeech_2025/benway25_interspeech.pdf) |
 
 <br>
 
