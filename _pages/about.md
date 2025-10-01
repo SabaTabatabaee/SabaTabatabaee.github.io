@@ -62,15 +62,6 @@ td, th {
   <tr><td><b>Aug 2023:</b></td><td><a style="color:black">Awarded</a> the Boston Speech Motor Control Symposium (BSMCS) student scholarship !</td></tr>
     <tr><td><b>Aug 2023:</b></td><td><a style="color:black">Awarded</a> the University of Maryland-College Park student scholarship !</td></tr>
   <tr><td><b>Aug 2022:</b></td><td>Started Ph.D. at University of Maryland, College Park.</td></tr>
-    <tr><td><b>Aug 2023:</b></td><td><a style="color:black">An abstract</a> was accepted by <b>ASA 2025</b> for poster presentation !</td></tr>
-  <tr><td><b>Aug 2023:</b></td><td><a style="color:black">A paper</a> was accepted by <b>JSLHR 2025</b> !</td></tr>
-  <tr><td><b>Aug 2023:</b></td><td><a style="color:black">A paper</a> was accepted by <b>ASRU workshop 2025</b> !</td></tr>
-  <tr><td><b>Jul 2023:</b></td><td> <a style="color:black">Three papers</a> got accepted by <b>Interspeech conference 2025</b>!</td></tr>
-  <tr><td><b>Aug 2023:</b></td><td><a style="color:black">Two abstracts</a> were accepted by <b>BSMCS 2025</b> for poster presentation !</td></tr>
-  <tr><td><b>Aug 2023:</b></td><td><a style="color:black">An abstract</a> was accepted by <b>NCVS 2025</b> for oral presentation !</td></tr>
-  <tr><td><b>Aug 2023:</b></td><td><a style="color:black">Awarded</a> the Boston Speech Motor Control Symposium (BSMCS) student scholarship !</td></tr>
-    <tr><td><b>Aug 2023:</b></td><td><a style="color:black">Awarded</a> the University of Maryland-College Park student scholarship !</td></tr>
-  <tr><td><b>Aug 2022:</b></td><td>Started Ph.D. at University of Maryland, College Park.</td></tr>
 </table>
 </div>
 
