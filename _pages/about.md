@@ -12,7 +12,7 @@ My name is Saba Tabatabaee. I am a Ph.D. student in Electrical and Computer Engi
 
 My research focuses on **Speech and audio processing**, with an emphasis on improving the speech inversion system using neural networks and self-supervised speech models under complex and real-world conditions. In parallel, I explore the integration of **speech inversion system** into **speech enhancement** and **automatic speech recognition**, aiming to improve automatic speech recognition and speech enhancement in noisy environments. 
 
-Please check list of publications [here](http://sabatabatabaee1994.github.io/publications/).
+Please check list of publications [here](https://scholar.google.com/citations?user=d7tPM7MAAAAJ&hl=en).
 
 **I am currently on the job market and actively seeking internships and full-time opportunities. If my research aligns with your interests, I would be glad to connect.**
 
@@ -54,6 +54,15 @@ td, th {
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
   <tr><td><b>Aug 2023:</b></td><td><a style="color:black">An abstract</a> was accepted by <b>ASA 2025</b> for poster presentation !</td></tr>
+  <tr><td><b>Aug 2023:</b></td><td><a style="color:black">A paper</a> was accepted by <b>JSLHR 2025</b> !</td></tr>
+  <tr><td><b>Aug 2023:</b></td><td><a style="color:black">A paper</a> was accepted by <b>ASRU workshop 2025</b> !</td></tr>
+  <tr><td><b>Jul 2023:</b></td><td> <a style="color:black">Three papers</a> got accepted by <b>Interspeech conference 2025</b>!</td></tr>
+  <tr><td><b>Aug 2023:</b></td><td><a style="color:black">Two abstracts</a> were accepted by <b>BSMCS 2025</b> for poster presentation !</td></tr>
+  <tr><td><b>Aug 2023:</b></td><td><a style="color:black">An abstract</a> was accepted by <b>NCVS 2025</b> for oral presentation !</td></tr>
+  <tr><td><b>Aug 2023:</b></td><td><a style="color:black">Awarded</a> the Boston Speech Motor Control Symposium (BSMCS) student scholarship !</td></tr>
+    <tr><td><b>Aug 2023:</b></td><td><a style="color:black">Awarded</a> the University of Maryland-College Park student scholarship !</td></tr>
+  <tr><td><b>Aug 2022:</b></td><td>Started Ph.D. at University of Maryland, College Park.</td></tr>
+    <tr><td><b>Aug 2023:</b></td><td><a style="color:black">An abstract</a> was accepted by <b>ASA 2025</b> for poster presentation !</td></tr>
   <tr><td><b>Aug 2023:</b></td><td><a style="color:black">A paper</a> was accepted by <b>JSLHR 2025</b> !</td></tr>
   <tr><td><b>Aug 2023:</b></td><td><a style="color:black">A paper</a> was accepted by <b>ASRU workshop 2025</b> !</td></tr>
   <tr><td><b>Jul 2023:</b></td><td> <a style="color:black">Three papers</a> got accepted by <b>Interspeech conference 2025</b>!</td></tr>
