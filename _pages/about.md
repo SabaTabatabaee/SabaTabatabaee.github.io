@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Saba Tabatabaee. I am a Ph.D. student in Electrical and Computer Engineering at [University of Maryland, College Park](https://umd.edu/) and a member of [Speech Communication](https://scl.umd.edu/) group. My research advisor is Prof. [Carol Espy-Wilson](https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson).
 
-My research focuses on **Speech and audio processing**, with an emphasis on improving the speech inversion system using neural networks and self-supervised speech models under complex and real-world conditions. In parallel, I explore the integration of **speech inversion system** into **speech enhancement** and **automatic speech recognition**, aiming to improve automatic speech recognition and speech enhancement in noisy environments. 
+My research focuses on **speech and audio processing**, with an emphasis on improving the speech inversion system using neural networks and self-supervised speech models under complex and real-world conditions. In parallel, I explore the integration of **speech inversion system** into **speech enhancement** and **automatic speech recognition**, aiming to improve automatic speech recognition and speech enhancement in noisy environments. 
 
 Please check list of publications [here](https://scholar.google.com/citations?user=d7tPM7MAAAAJ&hl=en).
 
