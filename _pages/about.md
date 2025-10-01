@@ -20,7 +20,7 @@ Research Interest
 ======
 - Speech and Audio processing
 - Speech Recognition
-- Speech Enhancement
+- Speech and Audio Enhancement
 - Speech Inversion
 - Applied AI/ML
 
