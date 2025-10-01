@@ -13,7 +13,7 @@ date: 2025-09-21
 venue: 'Accepted at Journal of Speech, Language, and Hearing Research (JSLHR)'
 short: 'Journal of Speech, Language, and Hearing Research (JSLHR)'
 paperurl: 'https://arxiv.org/pdf/2507.01888'
-teaser: '../images/perceptualratings.jpeg'
+teaser: '../images/perceptualratings.png'
 authors: "Nina R. Benway, <b>Saba Tabatabaee</b>, Dongliang Wang, Benjamin Munson, Jonathan L. Preston, Carol Espy-Wilson"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 redirect_from: 
@@ -21,7 +21,7 @@ redirect_from:
 ---
 
 <p style="text-align:center;">
-<img src="../images/perceptualratings.jpeg" width="800">
+<img src="../images/perceptualratings.png" width="800">
 </p>
 
 ## Abstract
