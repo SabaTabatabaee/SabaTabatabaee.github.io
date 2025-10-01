@@ -60,7 +60,7 @@ td, th {
   <tr><td><b>June 2025:</b></td><td><a style="color:black">Awarded</a> the Boston Speech Motor Control Symposium (BSMCS) student scholarship !</td>
   <tr><td><b>May 2025:</b></td><td> <a style="color:black">Three papers</a> got accepted by <b>Interspeech conference 2025</b>!</td></tr>
   <tr><td><b>April 2025:</b></td><td><a style="color:black">Two abstracts</a> were accepted by <b>BSMCS 2025</b> for poster presentation !</td></tr>
-  <tr><td><b>March 2025:</b></td><td><a style="color:black">An abstract</a> was accepted by <b>NCVS 2025</b> for oral presentation !</td></tr></tr>
+  <tr><td><b>Feb 2025:</b></td><td><a style="color:black">An abstract</a> was accepted by <b>NCVS 2025</b> for oral presentation !</td></tr></tr>
   <tr><td><b>Aug 2022:</b></td><td>Started Ph.D. at University of Maryland, College Park.</td></tr>
 </table>
 </div>
