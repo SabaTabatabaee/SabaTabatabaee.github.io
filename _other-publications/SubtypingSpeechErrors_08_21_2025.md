@@ -1,7 +1,7 @@
 ---
 title: "Subtyping Speech Errors in Childhood Speech Sound Disorders with Acoustic-to-Articulatory Speech Inversion"
 collection: other-publications
-permalink: /other-publications/Subtyping Speech Errors
+permalink: /other-publications/SubtypingSpeechErrors_08_21_2025
 excerpt: "Acoustic-to-articulatory speech inversion, trained on adult ground-truth kinematic data, quantifies clinically interpretable
 information about tongue constriction and location for /ɹ/ → /w/, /ɹ/ → vowel, dentalized /s/, and palatalized /s/ speech sound
 errors in children and adolescents with speech sound disorders."
