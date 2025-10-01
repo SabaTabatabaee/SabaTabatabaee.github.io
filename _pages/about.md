@@ -22,7 +22,7 @@ Research Interest
 - Speech Recognition
 - Speech Enhancement
 - Speech Inversion
-- Applied Deep Learning
+- Applied AI/ML
 
 Education
 ======
