@@ -1,0 +1,11 @@
+# main links links
+main:
+  - title: "About Me"
+    url:
+
+  - title: "Publications"
+    url: publications/
+    
+  - title: "CV"
+    url: files/CV_XiyangWu.pdf
+
