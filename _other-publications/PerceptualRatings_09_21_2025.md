@@ -10,8 +10,8 @@ of articulatory difference label using the PERCEPT Rating Scale, particularly fo
 /ɹ/. These results support the validation of speech inversion and the PERCEPT Rating Scale for
 speech science and clinical investigations of childhood SSD."
 date: 2025-09-21
-venue: 'Accepted at Journal of Speech, Language, and Hearing Research (JSLHR)'
-short: 'Journal of Speech, Language, and Hearing Research (JSLHR)'
+venue: 'Accepted at Journal of Speech, Language, and Hearing Research'
+short: 'JSLHR 2025'
 paperurl: 'https://arxiv.org/pdf/2507.01888'
 teaser: '../images/perceptualratings.png'
 authors: "Nina R. Benway, <b>Saba Tabatabaee</b>, Dongliang Wang, Benjamin Munson, Jonathan L. Preston, Carol Espy-Wilson"
