@@ -7,7 +7,7 @@ present. We demonstrated the effectiveness of finetuning pretrained models using
 speaker verification tasks in noisy and challenging environments, such as classrooms. Our results show that this approach
 significantly improves the performance of both the ECAPATDNN and x-vector models for children’s speech and classroom environments. We also found that the ECAPA-TDNN (FT-Boosted) model exhibited superior robustness, especially in handling variations in microphone configurations and classroom noise. Additionally, we propose that the optimal development set for finetuning speaker verification models is a combination of the MyST, CSLU, and CMU datasets, due to their diverse age range and speech styles. This diverse combination enables speaker verification models to generalize more effectively, improving their performance in real-world educational settings."
 date: 2025-06-15
-venue: 'Proc. in Interspeech 2025'
+venue: 
 short: 'Interspeech 2025'
 paperurl: 'https://www.isca-archive.org/interspeech_2025/tabatabaee25_interspeech.pdf'
 teaser: '../images/ft.jpeg'
