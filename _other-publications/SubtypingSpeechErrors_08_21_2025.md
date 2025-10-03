@@ -6,7 +6,7 @@ excerpt: "Acoustic-to-articulatory speech inversion, trained on adult ground-tru
 information about tongue constriction and location for /ɹ/ → /w/, /ɹ/ → vowel, dentalized /s/, and palatalized /s/ speech sound
 errors in children and adolescents with speech sound disorders."
 date: 2025-08-21
-venue: 'Proc. Interspeech 2025'
+venue: 
 short: 'Interspeech 2025'
 paperurl: 'https://www.isca-archive.org/interspeech_2025/benway25_interspeech.pdf'
 teaser: '../images/subtype.jpeg'
