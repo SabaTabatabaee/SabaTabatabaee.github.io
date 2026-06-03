@@ -24,12 +24,6 @@ Please check my list of publications [here](https://scholar.google.com/citations
 - Speech Inversion
 - Applied AI/ML
 
-## Education
-
-- **Ph.D.** in Electrical and Computer Engineering, University of Maryland, College Park, 2022 – 2027 *(Expected)*
-- **M.S.** in Electrical and Computer Engineering, University of Tehran, 2017 – 2021
-- **B.Eng.** in Electrical and Computer Engineering, Islamic Azad University, 2012 – 2016
-
 ## News
 
 <style>
