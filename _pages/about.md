@@ -14,7 +14,7 @@ My research focuses on **speech and audio processing**, with an emphasis on impr
 
 Please check my list of publications [here](https://scholar.google.com/citations?user=d7tPM7MAAAAJ&hl=en).
 
-> **I am currently on the job market and actively seeking internships and full-time opportunities. If my research aligns with your interests, I would be glad to connect.**
+> **I am currently on the job market and actively seeking full-time opportunities. If my research aligns with your interests, I would be glad to connect.**
 
 ## Research Interests
 
