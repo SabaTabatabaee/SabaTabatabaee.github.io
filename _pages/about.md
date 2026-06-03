@@ -53,6 +53,11 @@ td, th {
 <col width="110px">
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
+        <tr><td><b>May 2026:</b></td><td><a style="color:black"> Student Summer Research Intern</a> at <b>Stanford University</b> !</td></tr>
+      <tr><td><b>May 2026:</b></td><td><a style="color:black">A Paper</a> was accepted by <b>LabPhon20 2026</b> for oral presentation !</td></tr>
+        <tr><td><b>April 2026:</b></td><td><a style="color:black">the America Society of America travel student scholarship !</td>
+    <tr><td><b>March 2026:</b></td><td><a style="color:black">An abstract</a> was accepted by <b>ASA 2026</b> for poster presentation !</td></tr>
+  <tr><td><b>Jan 2026:</b></td><td><a style="color:black">A paper</a> was accepted by <b>ICASSP 2026</b> for poster presentation !</td></tr>
   <tr><td><b>Aug 2025:</b></td><td><a style="color:black">An abstract</a> was accepted by <b>ASA 2025</b> for poster presentation !</td></tr>
   <tr><td><b>Aug 2025:</b></td><td><a style="color:black">Awarded</a> the University of Maryland-College Park student scholarship !</td></tr>
   <tr><td><b>July 2025:</b></td><td><a style="color:black">A paper</a> was accepted by <b>ASRU workshop 2025</b> !</td></tr>
