@@ -44,7 +44,7 @@ td, th {
 <table style="border-collapse: collapse; font-size: 17px; border: none; width: 100%;">
 <col width="120px">
   <tr><td><b>May 2026:</b></td><td>Started as a <b>Student Summer Research Intern</b> at <b>Stanford University</b>!</td></tr>
-  <tr><td><b>May 2026:</b></td><td>A paper was accepted by <b>LabPhon20 2026</b> for oral presentation!</td></tr>
+  <tr><td><b>Apr 2026:</b></td><td>A paper was accepted by <b>LabPhon20 2026</b> for oral presentation!</td></tr>
   <tr><td><b>Mar 2026:</b></td><td>An abstract was accepted by <b>ASA 2026</b> for poster presentation!</td></tr>
   <tr><td><b>Jan 2026:</b></td><td>A paper was accepted by <b>ICASSP 2026</b> for poster presentation!</td></tr>
   <tr><td><b>Aug 2025:</b></td><td>An abstract was accepted by <b>ASA 2025</b> for poster presentation!</td></tr>
