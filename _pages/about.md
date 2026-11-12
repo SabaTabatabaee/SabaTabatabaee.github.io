@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Saba. I'm a **Ph.D. candidate in Electrical and Computer Engineering** at the [University of Maryland, College Park](https://umd.edu/), advised by Prof. [Carol Espy-Wilson](https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson) in the [Speech Communication Lab](https://scl.umd.edu/).
 
-I build ** machine learning and AI pipelines that hold up in the real world udder limited dataset scenarios**. My work covers multimodal learning (text, audio, video), signal processing, and in the field of audio I worked on speech recognition, speaker diarization and verification, speech enhancement, emotion recognition and acoustic-to-articulatory speech inversion.
+I develop **machine learning and AI pipelines designed to perform reliably in real-world settings, particularly under limited-data constraints**. My expertise spans multimodal learning (text, audio, and video), machine learning, and signal processing. 
 
 Full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=d7tPM7MAAAAJ&hl=en).
 
