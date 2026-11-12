@@ -8,32 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Saba. I'm a **Ph.D. candidate in Electrical and Computer Engineering** at the [University of Maryland, College Park](https://umd.edu/), advised by Prof. [Carol Espy-Wilson](https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson) in the [Speech Communication Lab](https://scl.umd.edu/), and a **Graduate Researcher in the EduNLP Lab at Stanford University**.
+Hi, I'm Saba. I'm a **Ph.D. candidate in Electrical and Computer Engineering** at the [University of Maryland, College Park](https://umd.edu/), advised by Prof. [Carol Espy-Wilson](https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson) in the [Speech Communication Lab](https://scl.umd.edu/).
 
-I build **speech and multimodal machine learning systems that hold up in the real world**: noisy classrooms, overlapping talkers, children's voices, and clinical populations. My work covers speech recognition, speaker diarization and verification, speech enhancement, and acoustic-to-articulatory speech inversion, using self-supervised speech models such as WavLM, wav2vec 2.0, and HuBERT. I also apply ML to biomedical signals and imaging (EEG, fMRI).
+I build ** machine learning and AI pipelines that hold up in the real world udder limited dataset scenarios**. My work covers multimodal learning (text, audio, video), signal processing, and in the field of audio I worked on speech recognition, speaker diarization and verification, speech enhancement, emotion recognition and acoustic-to-articulatory speech inversion.
 
-So far this has led to **10 peer-reviewed publications (9 first-author)** and **one pending patent**, developed with collaborators in clinical science, linguistics, and education. Full list on [Google Scholar](https://scholar.google.com/citations?user=d7tPM7MAAAAJ&hl=en).
+Full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=d7tPM7MAAAAJ&hl=en).
 
-> **On the job market:** I'm looking for full-time **research scientist / ML engineer** roles in speech, audio, and multimodal AI. If my work fits your team, I'd love to hear from you at [sabatbtbee@gmail.com](mailto:sabatbtbee@gmail.com).
-
-## Selected Results
-
-- **Classroom ASR + diarization (Stanford):** end-to-end system for child and adult speech that outperforms Gemini 2.5 Pro, WhisperX, Sortformer, VibeVoice-ASR, and Nemotron 3 on DER, cpWER, and WDER.
-- **Noise-robust speaker verification:** self-supervised and contrastive learning on unlabeled classroom audio, giving a **24% relative EER reduction** over ECAPA-TDNN.
-- **Speech inversion (patent pending):** estimates lip, tongue, velum, and glottal activity from audio alone.
-  - A **non-invasive alternative to nasopharyngoscopy** for children with velopharyngeal insufficiency, validated against clinical gold standards.
-  - **81% / 39% relative gains** in unseen babble / non-babble noise via multi-task learning with speech enhancement.
-  - Trained only on English, it **generalizes to Sinhala, Russian, and French**.
-- **Multimodal emotion recognition:** fuses speech, facial action units, and articulatory features.
-
-## Research Interests
-
-- Speech Recognition & Speaker Diarization
-- Speaker Verification
-- Speech Enhancement & Noise Robustness
-- Speech Inversion
-- Self-Supervised & Multimodal Learning
-- Biomedical Signal Processing (EEG, fMRI)
 
 ## News
 
