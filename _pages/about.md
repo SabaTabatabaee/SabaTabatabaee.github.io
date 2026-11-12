@@ -51,7 +51,3 @@ td, th {
 
 <br>
 
-## Selected Publications <a id="pub"></a>
-
-{% include base_path %}
-{% include archive-compact.html %}
